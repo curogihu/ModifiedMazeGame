@@ -1,4 +1,4 @@
-# ModifiedPacman
+# ModifiedMazeGame
 It was the homework in Vancouver college.  
 The goal is to going from the higher left corner to the lower right one.  
 
